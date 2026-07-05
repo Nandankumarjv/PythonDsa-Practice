@@ -1,47 +1,54 @@
-```
-# Python DSA Practice
+📘 Data Structures & Algorithms in Python
 
-This repository contains my Python solutions for Data Structures and Algorithms (DSA). I am solving problems and practicing concepts daily to improve my problem solving skill
+Welcome to my Data Structures & Algorithms (DSA) Repository!
 
-## Topics Covered
+This repository contains my DSA practice programs, problem-solving
+solutions, and notes as I prepare for coding interviews and build a
+strong foundation in Python.
 
-- Linear Search
-- Binary Search
-- Arrays
-- Strings
-- Linked Lists
-- Stacks
-- Queues
-- Sorting Algorithms
-- Recursion
-- Trees
-- Graphs
-- Dynamic Programming
+📚 Topics Covered
 
-## Folder Structure
+-   Time & Space Complexity (Big-O)
+-   Arrays
+-   Binary Search
+-   Linked Lists
+-   Recursion
+-   Binary Search Trees
+-   Hash Tables
+-   Sorting Algorithms
+-   Divide & Conquer
+-   Dynamic Programming
+-   Graph Algorithms
+-   Breadth First Search (BFS)
+-   Depth First Search (DFS)
+-   Shortest Path Algorithms
 
-```
+📂 Repository Structure
 
-PythonDsa/
-├── LinearSearch/
-├── BinarySearch/
-├── Arrays/
-├── Strings/
-├── LinkedLists/
-├── Stacks/
-├── Queues/
-└── README.md
+    DSA-Python/
+    │
+    ├── Arrays/
+    ├── BinarySearch/
+    ├── LinkedLists/
+    ├── Trees/
+    ├── HashTables/
+    ├── Sorting/
+    ├── Recursion/
+    ├── DynamicProgramming/
+    ├── Graphs/
 
-```
+🎯 Learning Goals
 
-## Goal
+-   Strengthen problem-solving skills
+-   Master fundamental data structures and algorithms
+-   Write clean and optimized Python code
+-   Understand algorithm efficiency using Big-O notation
 
-- Improve problem-solving skills.
-- Learn Data Structures and Algorithms using Python.
-- Build a strong foundation for coding interviews and competitive programming.
-- Practice consistently by solving DSA problems.
+📅 Progress
 
-## Language
+I update this repository regularly with new DSA concepts, coding
+problems, and optimized solutions.
 
-- Python 3
-```
+------------------------------------------------------------------------
+
+⭐ Thank you for visiting my repository!
