@@ -27,15 +27,15 @@ strong foundation in Python.
 
     DSA-Python/
     │
-    ├── Arrays/
-    ├── BinarySearch/
-    ├── LinkedLists/
-    ├── Trees/
-    ├── HashTables/
-    ├── Sorting/
-    ├── Recursion/
-    ├── DynamicProgramming/
-    ├── Graphs/
+    ├── Arrays.py
+    ├── BinarySearch.py
+    ├── LinkedLists.py
+    ├── Trees.py
+    ├── HashTables.py
+    ├── Sorting.py
+    ├── Recursion.py
+    ├── DynamicProgramming.py
+    ├── Graphs.py
 
 🎯 Learning Goals
 
