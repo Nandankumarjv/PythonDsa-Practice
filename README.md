@@ -9,7 +9,7 @@ strong foundation in Python.
 📚 Topics Covered
 
 -   Time & Space Complexity (Big-O)
--   Arrays
+-   Linear Search
 -   Binary Search
 -   Linked Lists
 -   Recursion
@@ -27,7 +27,7 @@ strong foundation in Python.
 
     DSA-Python/
     │
-    ├── Arrays/
+    ├── LinearSearch/
     ├── BinarySearch/
     ├── LinkedLists/
     ├── Trees/
