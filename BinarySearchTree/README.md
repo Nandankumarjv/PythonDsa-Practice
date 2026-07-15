@@ -24,3 +24,5 @@ The values arrange themselves into the following hierarchical tree shape based o
     9          69
      \
       19
+
+
