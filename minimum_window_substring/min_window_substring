@@ -1,0 +1,25 @@
+from collections import defaultdict
+class Solution:
+    def minWindow(self, s: str, t: str) -> str:
+        l=0
+        min_length=float('inf')
+        result=[-1,-1]
+        need_count=defaultdict(int)
+        for ch in t:
+            need_count[ch]+=1
+        need=len(need_count)
+        have=0
+        window_count=defaultdict(int)
+        for r in range(len(s)):
+            window_count[s[r]]+=1
+            if s[r] in need_count and window_count[s[r]]==need_count[s[r]]:
+                have+=1
+            while have==need:
+                if (r-l+1)<min_length:
+                    min_length=r-l+1
+                    result=[l,r]
+                window_count[s[l]]-=1
+                if s[l] in need_count and window_count[s[l]]<need_count[s[l]]:
+                    have-=1
+                l+=1
+        return s[result[0]:result[1]+1]
